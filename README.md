@@ -1,4 +1,4 @@
 # TrabajoEcu
 Proyecto de Prueba
 
-Archivo de prueba para lograr un objetivo de clases
+Archivo de prueba para lograr un Objetivo de clases
